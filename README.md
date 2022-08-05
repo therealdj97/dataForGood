@@ -1,11 +1,11 @@
 # dataForGood
 **data organization for humanitarian measures.**
 
-#dataforgood.web.app
+[Website](https://dataforgood.web.app/)
 
 # this is a platform to use data for training & research purpose open to all 
 
-**sources**
+**Sources**
 1. Open goverment data.
 2. Free datasets available on internet.
 3. Donated datasets by companies.
