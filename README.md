@@ -1,5 +1,5 @@
 # DataForGood
-**data organization for humanitarian measures.**
+**Data organization for humanitarian measures.**
 
 [Website](https://dataforgood.web.app/)
 
